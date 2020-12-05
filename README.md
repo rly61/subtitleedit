@@ -1,3 +1,7 @@
+字幕翻译
+fork自原作者
+
+
 # Subtitle Edit
 
 *the subtitle editor :)*
