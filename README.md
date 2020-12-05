@@ -1,5 +1,10 @@
 字幕翻译
+
 fork自原作者
+
+https://translatesubtitles.com/
+
+http://www.syedgakbar.com/projects/dst
 
 
 # Subtitle Edit
